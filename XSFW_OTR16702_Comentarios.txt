@@ -1,0 +1,4 @@
+XSFW_OTR16702_C4
+	Se modifica la Línea 262
+	Se agrega una nueva condición [C10 - EquipoEnCiclo] en paralelo a la variable [C232 - Aviso de cada Programa]
+	Esto Permite que la Salida Y100, este en 1 durante todo el ciclo de lavado, esta señal la usan los de Diversay para su sistema
